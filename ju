@@ -1,0 +1,555 @@
+#EXTM3U list-name="Canales Latinos ðŸ˜ " list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6PPyvXN/id.png" tvg-group="CIENCIA Y CULTURA", ID
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/960.ts
+
+click
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/942.ts
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/50ca0725709b4cba24f74ea7c4c3d1ff.png" group-title="Entretenimiento",|NATIONAL GEOGRAPHIC
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/959.ts
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/1c5529863ad20b1601c8e4abe7fc1b7f.png" group-title="RELIGION",DISCOVERI WORD
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/966.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" tvg-group="DEPORTES", ESPN
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/974.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" tvg-group="DEPORTES", ESPN 2
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/975.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9wf6FXv/ar-fox-sports-3-m.png" tvg-group="DEPORTES", FOX SPORTS 2
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/977.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", ESPN 
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/978.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN PLUS
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/984.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN EDGE
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/986.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" tvg-group="CINE Y SERIES", CINEMAX
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/988.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lv37ZBM/amc.png" tvg-group="CINE Y SERIES", AMC
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/991.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TrgDzmc/int-a3series.png" tvg-group="CINE Y SERIES", SERIE A3
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1004.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" tvg-group="CINE Y SERIES", FX
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1006.ts
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/f50717c5af9f273fae54e25c2b855673.png" group-title="Entretenimiento",|Multicinema
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1009.ts
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1018.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrQZVn0/tbs.png" tvg-group="CINE Y SERIES", TBSTBS
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1021.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BnBymgY/cinecanal.png" tvg-group="CINE Y SERIES", CINECANAL
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1025.ts
+
+
+#EXTINF:-1 tvg-id="I170.74016.schedulesdirect.org" tvg-name="DE PELICULA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" group-title="CINEMA PREMIUM",DE PELICULA
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1026.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" tvg-group="CINE Y SERIES", UNIVERSAL
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1029.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Entretenimiento" ,|STAR CHANEL
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1031.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YkRGmdb/space.png" tvg-group="CINE Y SERIES", SPACE
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1032.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/By7GRw7/axn.png" tvg-group="CINE Y SERIES", AXN
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1034.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KNr815G/tntseries.png" tvg-group="CINE Y SERIES", TNT SERIES
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1035.ts
+
+TELELENOVELAS
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1037.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" tvg-group="CINE Y SERIES", WARNER
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1038.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" tvg-group="CINE Y SERIES",  HBO FAMILIA
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1062.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" tvg-group="CINE Y SERIES", HBO
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1063.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" tvg-group="CINE Y SERIES", HBO XTREME
+https://vsd82.mycdn.me/hls/2414358039111.m3u8/sig/-jgzqid_pWo/expires/1662761013120/srcIp/190.171.83.100/clientType/0/srcAg/CHROME_ANDROID/mid/5468881755719/video.m3u8?p
+
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/1fe777ac276f5f22660a12eb97910b36.png" group-title="POLAND",POLAND | HBO
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1063.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDfNp51/dtvcl.png" tvg-group="DEPORTES", DIRECTV SPORTS EC
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1104.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GM2dStS/ecotel.jpg" tvg-group="Entretenimiento", TV 14
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1106.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" tvg-group="DEPORTES", TUDN
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1107.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", ESPN EXTRA
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1108.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/71LY9Sq/tntsports.png" tvg-group="DEPORTES", TNT SPORTS
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1109.ts
+
+GOL TV#EXTINF:-1 tvg-logo="https://i.ibb.co/khzsDTN/goltv.jpg" tvg-group="DEPORTES", GOLTV ECUADOR
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1110.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HdKSxVB/5bb7948502f9a1d774cf5ef8b47b7042.jpg" tvg-group="ECUADOR", OROMAR
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9wf6FXv/ar-fox-sports-3-m.png" tvg-group="DEPORTES", FOX SPORT PREMIUM
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1114.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" tvg-group="DEPORTES", DIRECTV SPORT ECUADOR
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1122.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9rMZ9xg/Dtvplus.png" tvg-group="DEPORTES", DIRECTV SPORTS
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1123.ts
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/cb70261ee10d2dd21cb9e8c3b199b6d4.png" group-title="DEPORTES FULL HD",DEPORTES FULL HD | IZZI AFICIONADOS
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1124.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" tvg-group="CINE Y SERIES", TELEMUNDO
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1126.ts
+
+#EXTINF:-1 tvg-logo="https://grupocity.net.ar/wp-content/uploads/2022/08/cab1.fw_.jpg" tvg-group="ECUADOR", CIUDAD MAGICA TV
+https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden
+https://linear-406.frequency.stream/406/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Edge 
+https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/71e91b0bcfa59b9a9c252a1ad00b4c4e.png" group-title="Entretenimiento",| RTS 
+https://youvideostreaming.club/hls/ecutv2.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", PASAJE
+https://canal.pasajetv.com/PasajeTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GM2dStS/ecotel.jpg" tvg-group="Entretenimiento", ECOTEL
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",TELESISTEMA
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1070665175.m3u8
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/aadc10d9bdd50458562b07fb839dae3c.png" group-title="Entretenimiento",| TV PURUWA
+https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",ECUAESTEREO
+https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1639083648.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ng9CcxY/cn.png" tvg-group="INFANTILES", CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tw7kyMZ/08eb21528400137.png" tvg-group="ECUADOR", ECUAVISA
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?uid=rGuKIAHTzwquIDe1f7PchNxaJEO2D4vc&sid=vHyxOPNgqPsYChR1pmZjsCupuYjp8z2j&pid=EaO3j5ypE0OpnUftfnntj1xcXdsmQeBe&an=screen&at=web-app&av=v5.2.277&ref=https%3A%2F%2Fwww.ecuavisa.com%2F&res=412x232&without_cookies=false&listenerid=&dvrOffset=3600&dnt=true&type=dvr
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HXVgJ5x/Images-q-tbn-ANd9-Gc-QJM4b-Ui-CJl-GPb-BEXk6-Pl-AFWp-L9b-ABq- TH5c-HY-s-E6-h-AQe-H5brt-O6-VSf-AZ8-CIf-Opyfd-Eo-usqp-CAU.jpg" tvg-group="ECUADOR", RTS
+https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="Ecuador",TeleAmazonas
+https://tna5.bozztv.com/latacungatv2022/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:9891
+#EXT-X-TARGETDURATION:17
+#EXT-X-KEY:METHOD=AES-128,URI="https://ssh101.com/aes/aeskey.php?keyslive&latacungatv2022/9875.key",IV=0x00000000000000000000000000002693
+#EXTINF:10.778,
+9891.ts
+#EXTINF:10.010,
+9892.ts
+#EXTINF:11.411,
+9893.ts
+#EXTINF:10.010,
+9894.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://ssh101.com/aes/aeskey.php?keyslive&latacungatv2022/9895.key",IV=0x000000000000000000000000000026A7
+#EXTINF:10.010,
+9895.ts
+#EXTINF:10.010,
+9896.ts
+#EXTINF:10.010,
+9897.ts
+#EXTINF:10.010,
+9898.ts
+#EXTINF:10.010,
+9899.ts
+#EXTINF:10.010,
+9900.ts
+#EXTINF:10.010,
+9901.ts
+#EXTINF:10.010,
+9902.ts
+#EXTINF:11.412,
+9903.ts
+#EXTINF:10.010,
+9904.ts
+#EXTINF:10.010,
+9905.ts
+#EXTINF:10.010,
+9906.ts
+#EXTINF:10.010,
+9907.ts
+#EXTINF:10.010,
+9908.ts
+#EXTINF:10.010,
+9909.ts
+#EXTINF:12.345,
+9910.ts
+#EXTINF:11.212,
+9911.ts
+#EXTINF:10.510,
+9912.ts
+#EXTINF:10.010,
+9913.ts
+#EXTINF:11.812,
+9914.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://ssh101.com/aes/aeskey.php?keyslive&latacungatv2022/9915.key",IV=0x000000000000000000000000000026BB
+#EXTINF:10.243,
+9915.ts
+#EXTINF:10.010,
+9916.ts
+#EXTINF:10.544,
+9917.ts
+#EXTINF:11.579,
+9918.ts
+#EXTINF:10.810,
+9919.ts
+#EXTINF:10.945,
+9920.ts
+#EXTINF:13.280,
+9921.ts
+#EXTINF:11.144,
+9922.ts
+#EXTINF:13.547,
+9923.ts
+#EXTINF:12.512,
+9924.ts
+#EXTINF:11.912,
+9925.ts
+#EXTINF:12.780,
+9926.ts
+#EXTINF:11.878,
+9927.ts
+#EXTINF:12.379,
+9928.ts
+#EXTINF:11.679,
+9929.ts
+#EXTINF:10.010,
+9930.ts
+#EXTINF:10.577,
+9931.ts
+#EXTINF:10.010,
+9932.ts
+#EXTINF:10.010,
+9933.ts
+#EXTINF:10.077,
+9934.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://ssh101.com/aes/aeskey.php?keyslive&latacungatv2022/9935.key",IV=0x000000000000000000000000000026CF
+#EXTINF:12.913,
+9935.ts
+#EXTINF:10.277,
+9936.ts
+#EXTINF:16.917,
+9937.ts
+#EXTINF:10.443,
+9938.ts
+#EXTINF:11.111,
+9939.ts
+#EXTINF:11.145,
+9940.ts
+#EXTINF:10.677,
+9941.ts
+#EXTINF:12.713,
+9942.ts
+#EXTINF:10.911,
+9943.ts
+#EXTINF:10.110,
+9944.ts
+#EXTINF:10.911,
+9945.ts
+#EXTINF:10.711,
+9946.ts
+#EXTINF:10.510,
+9947.ts
+#EXTINF:10.177,
+9948.ts
+#EXTINF:10.010,
+9949.ts
+#EXTINF:10.010,
+9950.ts
+#EXTINF:10.010,
+9951.ts
+#EXTINF:10.110,
+9952.ts
+#EXTINF:11.378,
+9953.ts
+#EXTINF:11.678,
+9954.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://ssh101.com/aes/aeskey.php?keyslive&latacungatv2022/9955.key",IV=0x000000000000000000000000000026E3
+#EXTINF:10.478,
+9955.ts
+#EXTINF:10.777,
+9956.ts
+#EXTINF:10.410,
+9957.ts
+#EXTINF:12.046,
+9958.ts
+#EXTINF:10.377,
+9959.ts
+#EXTINF:11.778,
+9960.ts
+#EXTINF:10.110,
+9961.ts
+#EXTINF:10.344,
+9962.ts
+#EXTINF:11.078,
+9963.ts
+#EXTINF:12.312,
+9964.ts
+#EXTINF:10.177,
+9965.ts
+#EXTINF:10.410,
+9966.ts
+#EXTINF:10.478,
+9967.ts
+#EXTINF:11.845,
+9968.ts
+#EXTINF:10.210,
+9969.ts
+#EXTINF:11.278,
+9970.ts
+#EXTINF:11.111,
+9971.ts
+#EXTINF:12.646,
+9972.ts
+#EXTINF:10.010,
+9973.ts
+#EXTINF:12.146,
+9974.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://ssh101.com/aes/aeskey.php?keyslive&latacungatv2022/9975.key",IV=0x000000000000000000000000000026F7
+#EXTINF:11.878,
+9975.ts
+#EXTINF:11.245,
+9976.ts
+#EXTINF:10.210,
+9977.ts
+#EXTINF:10.644,
+9978.ts
+#EXTINF:10.944,
+9979.ts
+#EXTINF:11.178,
+9980.ts
+#EXTINF:11.411,
+9981.ts
+#EXTINF:11.078,
+9982.ts
+#EXTINF:11.812,
+9983.ts
+#EXTINF:10.243,
+9984.ts
+#EXTINF:11.278,
+9985.ts
+#EXTINF:10.144,
+9986.ts
+#EXTINF:10.744,
+9987.ts
+#EXTINF:10.677,
+9988.ts
+#EXTINF:10.778,
+9989.ts
+#EXTINF:10.010,
+9990.ts
+#EXTINF:10.010,
+9991.ts
+#EXTINF:10.010,
+9992.ts
+#EXTINF:10.010,
+9993.ts
+#EXTINF:10.010,
+9994.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://ssh101.com/aes/aeskey.php?keyslive&latacungatv2022/9995.key",IV=0x0000000000000000000000000000270B
+#EXTINF:10.010,
+9995.ts
+#EXTINF:10.010,
+9996.ts
+#EXTINF:10.010,
+9997.ts
+#EXTINF:10.010,
+9998.ts
+#EXTINF:10.010,
+9999.ts
+#EXTINF:10.010,
+10000.ts
+#EXTINF:10.010,
+10001.ts
+#EXTINF:10.010,
+10002.ts
+#EXTINF:10.010,
+10003.ts
+#EXTINF:11.712,
+10004.ts
+#EXTINF:11.211,
+10005.ts
+#EXTINF:11.678,
+10006.ts
+#EXTINF:10.010,
+10007.ts
+#EXTINF:10.010,
+10008.ts
+#EXTINF:10.010,
+10009.ts
+#EXTINF:10.010,
+10010.ts
+#EXTINF:10.010,
+10011.ts
+#EXTINF:10.010,
+10012.ts
+#EXTINF:10.010,
+10013.ts
+#EXTINF:10.010,
+10014.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://ssh101.com/aes/aeskey.php?keyslive&latacungatv2022/10015.key",IV=0x0000000000000000000000000000271F
+#EXTINF:10.010,
+10015.ts
+#EXTINF:10.010,
+10016.ts
+#EXTINF:10.010,
+10017.ts
+#EXTINF:10.010,
+10018.ts
+#EXTINF:10.010,
+10019.ts
+#EXTINF:10.010,
+10020.ts
+#EXTINF:10.377,
+10021.ts
+#EXTINF:10.711,
+10022.ts
+#EXTINF:10.144,
+10023.ts
+#EXTINF:10.410,
+10024.ts
+#EXTINF:10.010,
+10025.ts
+#EXTINF:10.010,
+10026.ts
+#EXTINF:10.010,
+10027.ts
+#EXTINF:10.010,
+10028.ts
+#EXTINF:11.545,
+10029.ts
+#EXTINF:10.344,
+10030.ts
+#EXTINF:10.777,
+10031.ts
+#EXTINF:11.912,
+10032.ts
+#EXTINF:10.010,
+10033.ts
+#EXTINF:10.611,
+10034.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://ssh101.com/aes/aeskey.php?keyslive&latacungatv2022/10035.key",IV=0x00000000000000000000000000002733
+#EXTINF:10.010,
+10035.ts
+#EXTINF:10.010,
+10036.ts
+#EXTINF:10.176,
+10037.ts
+#EXTINF:10.511,
+10038.ts
+#EXTINF:11.345,
+10039.ts
+#EXTINF:11.911,
+10040.ts
+#EXTINF:11.345,
+10041.ts
+#EXTINF:10.177,
+10042.ts
+#EXTINF:11.845,
+10043.ts
+#EXTINF:10.010,
+10044.ts
+#EXTINF:10.010,
+10045.ts
+#EXTINF:10.210,
+10046.ts
+#EXTINF:10.010,
+10047.ts
+#EXTINF:11.645,
+10048.ts
+#EXTINF:10.678,
+10049.ts
+#EXTINF:10.710,
+10050.ts
+#EXTINF:11.011,
+10051.ts
+#EXTINF:11.011,
+10052.ts
+#EXTINF:10.010,
+10053.ts
+#EXTINF:10.244,
+10054.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://ssh101.com/aes/aeskey.php?keyslive&latacungatv2022/10055.key",IV=0x00000000000000000000000000002747
+#EXTINF:10.110,
+10055.ts
+#EXTINF:10.010,
+10056.ts
+#EXTINF:10.010,
+10057.ts
+#EXTINF:11.645,
+10058.ts
+#EXTINF:10.010,
+10059.ts
+#EXTINF:10.010,
+10060.ts
+#EXTINF:10.277,
+10061.ts
+#EXTINF:10.477,
+10062.ts
+#EXTINF:11.745,
+10063.ts
+#EXTINF:10.010,
+10064.ts
+#EXTINF:10.611,
+10065.ts
+#EXTINF:11.078,
+10066.ts
+#EXTINF:10.777,
+10067.ts
+#EXTINF:10.077,
+10068.ts
+#EXTINF:10.010,
+10069.ts
+#EXTINF:10.911,
+10070.ts
